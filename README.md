@@ -1,6 +1,6 @@
 # xor-nand
 
 in cmd or terminal
-cd "path"
-g++ main.cp
-./a.out arg1 arg2
+<p>cd "path"</p>
+<p>g++ main.cp</p>
+<p>./a.out arg1 arg2</p>
